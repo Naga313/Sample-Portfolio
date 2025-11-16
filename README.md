@@ -27,7 +27,7 @@ HTML5 for structure
 
 CSS3 for styling and layout
 
-JavaScript for interactions (e.g., dark mode)
+JavaScript for interactions (e.g., dark mode, scroll to top button)
 
 Project Structure
 
@@ -46,4 +46,3 @@ Ensured sufficient color contrast in both light and dark modes.
 # Disclaimer
 
 This is a sample portfolio intended for demonstration, learning, and starter template use. Replace placeholder content with your own before production.
-
